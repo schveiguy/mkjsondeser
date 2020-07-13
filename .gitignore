@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/mkjsondeser
+mkjsondeser.so
+mkjsondeser.dylib
+mkjsondeser.dll
+mkjsondeser.a
+mkjsondeser.lib
+mkjsondeser-test-*
+*.exe
+*.o
+*.obj
+*.lst
+.*.swp

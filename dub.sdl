@@ -1,0 +1,7 @@
+name "mkjsondeser"
+description "Utility to generate types to allow easy deserialization of example json data using jsoniopipe"
+authors "Steven Schveighoffer"
+copyright "Copyright © 2020, Steven Schveighoffer"
+license "Boost-1.0"
+dependency "jsoniopipe" version="~>0.1.2"
+dependency "io" version="~>0.2.5"
